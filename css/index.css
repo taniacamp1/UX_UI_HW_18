@@ -1,0 +1,145 @@
+#nav {
+    width: 1279px;
+    height: 119px;
+    position: relative;
+    left: 0px;
+    top: 0px;
+    overflow: hidden;
+}
+.rectangle-4 {
+    background: #ffffff;
+  width: 1243px;
+  height: 67px;
+  position: absolute;
+  left: 18px;
+  top: 25px;
+}
+
+  .tc {
+    color: #000000;
+    text-align: left;
+    font-family: "DmSans-Bold", sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    position: absolute;
+    left: 48px;
+    top: 32px;
+    width: 266px;
+    height: 38px;
+  }
+ 
+  .home2 {
+    color: #000000;
+    text-align: left;
+    font-family: "DmSans-Bold", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    position: absolute;
+    left: 785.95px;
+    top: 41px;
+    width: 71.11px;
+    height: 28px;
+  }
+
+  .works2 {
+    color: #000000;
+    text-align: left;
+    font-family: "DmSans-Bold", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    position: absolute;
+    left: 894px;
+    top: 41px;
+    width: 81px;
+    height: 28px;
+  }
+  
+  .about2 {
+    color: #000000;
+    text-align: left;
+    font-family: "DmSans-Bold", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    position: relative;
+    left: 994px;
+    top: 41px;
+    width: 81px;
+    height: 28px;
+  }
+  .contact {
+    width: 152px;
+    height: 54px;
+    position: static;
+  }
+  .rectangle-203 {
+    background: linear-gradient(
+        42.04deg,
+        rgba(235, 0, 197, 0.2) 0%,
+        rgba(255, 255, 255, 0) 100%
+      ),
+      linear-gradient(to left, #6599ff, #6599ff);
+    border-radius: 25px;
+    border-style: solid;
+    border-color: rgba(0, 0, 0, 0.15);
+    border-width: 1px;
+    width: 152px;
+    height: 54px;
+    position: absolute;
+    left: 1105px;
+    top: 31px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  }
+
+  .contact2 {
+    background: linear-gradient(to left, #ffffff, #ffffff);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: left;
+    font-family: "DmSans-Bold", sans-serif;
+    font-size: 24px;
+    font-weight: 700;
+    position: absolute;
+    left: 1132px;
+    top: 41px;
+    width: 98px;
+    height: 28px;
+  }
+  
+  .tania-camp2 {
+    text-align: center;
+    font-family: "SeventhAugust-Regular", sans-serif;
+    font-size: 30px;
+    line-height: 84.39%;
+    font-weight: 400;
+    position: absolute;
+    left: calc(50% - 311.5px);
+    top: 374px;
+    width: 635px;
+    height: 101px;
+    color: #394DFF;
+  }
+  .ux-ui-designer-based-in-los-angeles-ca {
+    color: #848dbd;
+    text-align: center;
+    font-family: "News701Bt-Bold", sans-serif;
+    font-size: 24px;
+    line-height: 84.39%;
+    font-weight: 700;
+    position: absolute;
+    left: 545px;
+    top: 464px;
+    width: 324px;
+    height: 24px;
+    transform: translate(-120%, -1500%);
+  }
+  .hero-image {
+    background-image: url("https://img.freepik.com/free-vector/gradient-blur-pink-blue-abstract-background_53876-117324.jpg?w=1800&t=st=1710220804~exp=1710221404~hmac=bccd45bdff5acf900fe37600ce5dfe29c215a9a6382d44572d9a51f5a311826b");
+  
+    height: 50%;
+  
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  }
