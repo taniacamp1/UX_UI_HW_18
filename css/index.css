@@ -108,8 +108,8 @@
   
   .tania-camp2 {
     text-align: center;
-    font-family: "SeventhAugust-Regular", sans-serif;
-    font-size: 30px;
+    font-family: "SeventhAugust-Regular";
+    font-size: 50px;
     line-height: 84.39%;
     font-weight: 400;
     position: absolute;
@@ -134,12 +134,168 @@
     transform: translate(-120%, -1500%);
   }
   .hero-image {
-    background-image: url("https://img.freepik.com/free-vector/gradient-blur-pink-blue-abstract-background_53876-117324.jpg?w=1800&t=st=1710220804~exp=1710221404~hmac=bccd45bdff5acf900fe37600ce5dfe29c215a9a6382d44572d9a51f5a311826b");
+    background-image: url("https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/12/Gradient_builder_2.jpg?auto=format&q=60&fit=max&w=930");
   
-    height: 50%;
+    height: 1000%;
   
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
+  }
+  .mySkills { 
+    margin-top: 1100px;
+    margin-bottom: -150px;
+    border: 2px solid #878787;
+    background: rgba(199, 255, 180, 0.63);
+    width: 1217px;
+    height: 95px;
+    flex-shrink: 0;
+    padding-bottom: 1px;
+  }
+  .mySkills h2 { 
+    color: #000000;
+    text-align: center;
+    font-family: "SeventhAugust-Regular";
+    font-size: 45px;
+    line-height: 84.39%;
+    font-weight: 400;
+    position: absolute;
+    left: 419px;
+    width: 453px;
+    height: 65px;
+    top: 1213px;
+    margin-bottom: 80px;
+  }
+  .flexContainer {
+    display: flex;
+    width: 50%;
+    margin: 0 100px;
+    padding: 10px;
+    flex-direction: row;
+  }
+  .flexContainer > div {
+    margin: 100px;
+  }
+h3 {
+  font-family: "Nunito-Bold";
+  font-size: 32px;
+  font-weight: 700;
+ }
+  .myWork{
+    border: 2px solid #878787;
+    background: rgba(199, 255, 180, 0.63);
+    width: 1217px;
+    height: 95px;
+    flex-shrink: 0;
+    top: 1000px;
+    position: relative;
+    margin-top: -600px;
+  }
+  h2 {
+    color: #000000;
+    text-align: center;
+    font-family: "SeventhAugust-Regular";
+    font-size: 45px;
+    line-height: 84.39%;
+    font-weight: 400;
+    position: absolute;
+    left: 419px;
+    width: 453px;
+    height: 65px;
+    top: -5px;
+  }
+  h4.project-title-1 {
+    color: #000000;
+    text-align: center;
+    font-family: "Apercu-Bold", sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+    position: absolute;
+    left: 610px;
+    top: 350px;
+    width: 622px;
+    height: 144px;
+  }
+  .workGrid > div:nth-child(2) > p {
+    color: #000;
+    text-align: justify;
+    font-family: "Nunito", sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 5px;
+    position: absolute;
+    left: 800px;
+    top: 470px; 
+}
+.workGrid > div:nth-child(2) > button {
+  position: absolute;
+  left: 875px;
+  top: 550px; 
+}
+.workGrid > div:nth-child(1) > img {
+  position: absolute;
+    left: 180px;
+    top: 400px; 
+    z-index: 2;
+}
+  .rectangle-154 {
+    background: rgba(255, 214, 147, 0.63);
+    border-radius: 0px 200px 200px 0px;
+    width: 586px;
+    height: 414px;
+    position: absolute;
+    left: -1px;
+    top: 200px;
+    z-index:1;
+  }
+  h4.project-title-2 {
+    color: #000000;
+    text-align: center;
+    font-family: "Nunito-Bold";
+    font-size: 32px;
+    font-weight: 700;
+    position: absolute;
+    left: -125px;
+    top: 900px;
+    width: 622px;
+    height: 144px;
+  }
+  .workGrid > div:nth-child(4) > p {
+    color: #000;
+    text-align: justify;
+    font-family: "Nunito", sans-serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin-top: 5px;
+    position: absolute;
+    left: 85px;
+    top:1010px;
+  }
+  .workGrid > div:nth-child(4) > button {
+    position: absolute;
+    left: 150px;
+    top:1100px;
+  }
+  .workGrid > div:nth-child(3) > img {
+    position: absolute;
+    left: 950px;
+    top: 950px; 
+    z-index: 2;
+  }
+  .rectangle-159 {
+    background: rgba(150, 214, 164, 0.63);
+    border-radius: 0px 200px 200px 0px;
+    width: 586px;
+    height: 414px;
+    position: absolute;
+    left: 1279px;
+    top: 762px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(-1, 1);
+    z-index: 1;
   }
